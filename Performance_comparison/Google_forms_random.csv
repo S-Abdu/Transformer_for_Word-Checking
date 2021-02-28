@@ -1,0 +1,41 @@
+ ;Sentence;True label;Correct Type;Error Type;Original Order;New Order
+('se', 'ce')-incorrect;La vente de carte journalière au tarif de 8 € ce fera sur place.;NON;TP;FN;15;0
+('cet', 'cette')-incorrect;Sauront-ils exploiter la technologie de cette engin furtif ?;NON;TP;FN;39;1
+('ou', 'où')-incorrect;C'est évidemment peu, où déjà trop.;NON;TP;FN;17;2
+('cette', 'cet')-incorrect;Face à cet situation de surchauffe, une nette correction a été engagée.;NON;TP;FN;37;3
+('et', 'est');Puisqu'en mode comme en fleurissement, les tendances se font et se défont.;OUI;TN;FP;6;4
+('et', 'est')-incorrect;Le thème de cette dixième édition était « fêtes est traditions ».;NON;TP;FN;7;5
+('cette', 'cet');Le journal a appris de nouveaux détails sur cette affaire.;OUI;TN;FP;36;6
+('ce', 'se');Au début, ce n’était pas évident, donc j’ai fait très attention.;OUI;TN;FP;12;7
+('la', 'là')-incorrect;Si là réponse à ça, c'est oui, je l'entends.;NON;TP;FN;21;8
+('tous', 'tout');Cela fuse dans tous les sens, c’est du grand n’importe quoi.;OUI;TN;FP;26;9
+('ou', 'où');Tu es là, maintenant, et tu n'es plus en 1994 ou en 1996.;OUI;TN;FP;16;10
+('ces', 'ses')-incorrect;C'est probablement la mesure la plus proche du ressenti de ses derniers.;NON;TP;FN;9;11
+('a', 'à')-incorrect;Il à bon espoir de voir la construction aller de l'avant d'ici un an.;NON;TP;FN;1;12
+('ses', 'ces');Washington pourrait ainsi satisfaire ses partenaires internationaux.;OUI;TN;FP;10;13
+('ceux', 'ce');Que du bonheur pour ceux qui sauront dépasser leurs douleurs.;OUI;TN;FP;32;14
+('leurs', 'leur')-incorrect;Beaucoup d'universitaires poursuivent une partie de leur cours.;NON;TP;FN;31;15
+('est', 'et');Son atelier, il est à son image : cool.;OUI;TN;FP;4;16
+('cet', 'cette');Plus de 34 millions de passagers transitent par cet aéroport chaque année.;OUI;TN;FP;38;17
+('ces', 'ses');Jusqu'où peut-on protéger ces chers rejetons de notre chair ?;OUI;TN;FP;8;18
+('à', 'a');Son chat, lui, ronronne à nouveau, auprès d’elle.;OUI;TN;FP;2;19
+('tout', 'tous');Comment faire pour être comme tout le monde?;OUI;TN;FP;24;20
+('tout', 'tous')-incorrect;Reportons-nous au tous début des années 50.;NON;TP;FN;25;21
+('ce', 'se')-incorrect;Je ne comprends pas se débalancement entre régions.;NON;TP;FN;13;22
+('la', 'là');Ce niveau délimite la borne basse d'un mini canal horizontal.;OUI;TN;FP;20;23
+('se', 'ce');Les inscriptions se feront pendant les heures d'entrainements.;OUI;TN;FP;14;24
+('ses', 'ces')-incorrect;Il faut maintenant que la France se donne les moyens de ces ambitions.;NON;TP;FN;11;25
+('ceux', 'ce')-incorrect;Et ce d'aujourd'hui, sont-ils déjà au point ?;NON;TP;FN;33;26
+('là', 'la');Les cadeaux de noël ne sont pas toujours là où on le croit.;OUI;TN;FP;22;27
+('ce', 'ceux')-incorrect;Je vais poursuivre ceux genre d'activités.;NON;TP;FN;35;28
+('a', 'à');Il a fait valoir que les tarifs du câble ont été réglementés aux États-Unis.;OUI;TN;FP;0;29
+('tous', 'tout')-incorrect;Ça m’intéresse comme tout les gens de ma génération, mais sans plus.;NON;TP;FN;27;30
+('où', 'ou');En plus, il y a ce texte-là où je leur impose une vision.;OUI;TN;FP;18;31
+('où', 'ou')-incorrect;Un bon moment de détente ou le rire sera le fil conducteur de cette soirée.;NON;TP;FN;19;32
+('est', 'et')-incorrect;La pratique courante de l'anglais et un atout.;NON;TP;FN;5;33
+('leur', 'leurs')-incorrect;Les Européens veulent démontrer leurs unité avant le G20 de Londres.;NON;TP;FN;29;34
+('à', 'a')-incorrect;Mais quand t'es embarqué dans l'engrenage, tu ne penses même pas a ça.;NON;TP;FN;3;35
+('ce', 'ceux');Une chose est sûre, ce n'était pas de la fausse monnaie !;OUI;TN;FP;34;36
+('là', 'la')-incorrect;Je suis la pour marquer, dans une équipe qui pratique un jeu ouvert.;NON;TP;FN;23;37
+('leurs', 'leur');Les particuliers peuvent y déposer leurs cartouches usagées.;OUI;TN;FP;30;38
+('leur', 'leurs');Les studios de cinéma sont célèbres pour leur créativité comptable.;OUI;TN;FP;28;39

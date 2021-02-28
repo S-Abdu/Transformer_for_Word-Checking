@@ -1,0 +1,1368 @@
+(a,b)=(a,à)
+Input: «on garde seulement la quantité dont on a besoin pour deux jours.
+Correct output: «on garde seulement la quantité dont on a besoin pour deux jours.
+Unexpected output: «on garde seulement là quantité dont on a besoin pour deux jours.
+
+
+(a,b)=(a,à)
+Input: et s'il pense que la cgt est contre sa politique, il a peut-être raison...
+Correct output: et s'il pense que la cgt est contre sa politique, il a peut-être raison...
+Unexpected output: et s'il pense que la cgt et contre sa politique, il a peut-être raison...
+
+
+(a,b)=(a,à)
+Input: «il y a tout lieu d'être très positif, la confiance est de mise.
+Correct output: «il y a tout lieu d'être très positif, la confiance est de mise.
+Unexpected output: «il y a tous lieu d'être très positif, la confiance est de mise.
+
+
+(a,b)=(a,à)
+Input: par ses impôts, québec a versé environ 250 millions.
+Correct output: par ses impôts, québec a versé environ 250 millions.
+Unexpected output: par ces impôts, québec a versé environ 250 millions.
+
+
+(a,b)=(a,à)
+Input: le premier a craquer est hencky, le gentil géant.
+Correct output: le premier à craquer est hencky, le gentil géant.
+Unexpected output: le premier a craquer et hencky, le gentil géant.
+
+
+(a,b)=(a,à)
+Input: apostrophe est une chaîne de café a londres.
+Correct output: apostrophe est une chaîne de café à londres.
+Unexpected output: apostrophe et une chaîne de café à londres.
+
+
+(a,b)=(a,à)
+Input: ça n'a pas d'allure d'enlever ces acquis a ces gens.»
+Correct output: ça n'a pas d'allure d'enlever ces acquis à ces gens.»
+Unexpected output: ça n'a pas d'allure d'enlever ses acquis a ces gens.»
+
+
+(a,b)=(a,à)
+Input: olympia, «cette horrible toile, est comme un défi jeté a la foule.
+Correct output: olympia, «cette horrible toile, est comme un défi jeté à la foule.
+Unexpected output: olympia, «cet horrible toile, est comme un défi jeté à la foule.
+
+
+(a,b)=(a,à)
+Input: parce que ses défauts d'hier sont aujourd'hui portés a son crédit.
+Correct output: parce que ses défauts d'hier sont aujourd'hui portés à son crédit.
+Unexpected output: parce que ces défauts d'hier sont aujourd'hui portés à son crédit.
+
+
+(a,b)=(a,à)
+Input: «nicolas sarkozy est favorable a un remaniement a minima.
+Correct output: «nicolas sarkozy est favorable à un remaniement a minima.
+Unexpected output: «nicolas sarkozy est favorable à un remaniement à minima.
+
+
+(a,b)=(à,a)
+Input: «les affaires ont tout à voir avec le risque.
+Correct output: «les affaires ont tout à voir avec le risque.
+Unexpected output: «les affaires ont tous à voir avec le risque.
+
+
+(a,b)=(à,a)
+Input: » à vos plumes - quelles est votre émission culte ?
+Correct output: » à vos plumes - quelles est votre émission culte ?
+Unexpected output: » à vos plumes - quelles et votre émission culte ?
+
+
+(a,b)=(à,a)
+Input: difficile dans ses conditions de se risquer à des prévisions de résultats.
+Correct output: difficile dans ses conditions de se risquer à des prévisions de résultats.
+Unexpected output: difficile dans ces conditions de ce risquer à des prévisions de résultats.
+
+
+(a,b)=(à,a)
+Input: oui, des chevreuils peuvent vivre à l'ombre des raffineries.
+Correct output: oui, des chevreuils peuvent vivre à l'ombre des raffineries.
+Unexpected output: oui, des chevre’ls peuvent vivre à l'ombre des raffineries.
+
+
+(a,b)=(à,a)
+Input: installée à erstein, l'entreprise est celle de robert hugget.
+Correct output: installée à erstein, l'entreprise est celle de robert hugget.
+Unexpected output: installée à erstein, l'entreprise et celle de robert hugget.
+
+
+(a,b)=(à,a)
+Input: il à les a vendues, a un patrimoine personnel confortable.
+Correct output: il a les a vendues, a un patrimoine personnel confortable.
+Unexpected output: il a les a vendues, à un patrimoine personnel confortable.
+
+
+(a,b)=(à,a)
+Input: «il à été fauché par des balles tirées par ces militaires».
+Correct output: «il a été fauché par des balles tirées par ces militaires».
+Unexpected output: «il a été fauché par des balles tirées par ses militaires».
+
+
+(a,b)=(à,a)
+Input: baron-la salle à inscrit six buts.
+Correct output: baron-la salle a inscrit six buts.
+Unexpected output: baron-là salle à inscrit six buts.
+
+
+(a,b)=(à,a)
+Input: un #bugencascade à fait tomber twitter
+Correct output: un #bugencascade a fait tomber twitter
+Unexpected output: un se bugencascade à fait tomber twitter
+
+
+(a,b)=(à,a)
+Input: «ça leur à donné la chance de trouver leur synchronisme plus vite.
+Correct output: «ça leur a donné la chance de trouver leur synchronisme plus vite.
+Unexpected output: «ça leur a donné la chance de trouver leurs synchronisme plus vite.
+
+
+(a,b)=(à,a)
+Input: le ministre à démenti en bloc et porté plainte pour diffamation.
+Correct output: le ministre a démenti en bloc et porté plainte pour diffamation.
+Unexpected output: le ministre a démenti en bloc est porté plainte pour diffamation.
+
+
+(a,b)=(à,a)
+Input: initialement, cet afflux à été bien accueilli.
+Correct output: initialement, cet afflux a été bien accueilli.
+Unexpected output: initialement, cette afflux a été bien accueilli.
+
+
+(a,b)=(à,a)
+Input: "il y à aussi le vieil adage qui dit que toute publicité est une bonne publicité"...
+Correct output: "il y a aussi le vieil adage qui dit que toute publicité est une bonne publicité"...
+Unexpected output: "il y a aussi le vieil adage qui dit que toute publicité et une bonne publicité"...
+
+
+(a,b)=(à,a)
+Input: on à tout intérêt à bien investir.
+Correct output: on a tout intérêt à bien investir.
+Unexpected output: on a tous intérêt à bien investir.
+
+
+(a,b)=(est,et)
+Input: il est en train d'en terminer un autre en planification financière.
+Correct output: il est en train d'en terminer un autre en planification financière.
+Unexpected output: il est en train d'en terminer un autre en planification en financre.
+
+
+(a,b)=(est,et)
+Input: le politique est là face à nous dans une position d'attente.
+Correct output: le politique est là face à nous dans une position d'attente.
+Unexpected output: le politique est la face à nous dans une position d'attente.
+
+
+(a,b)=(est,et)
+Input: » temoignage audio - «l'aquila est une cité morte»
+Correct output: » temoignage audio - «l'aquila est une cité morte»
+Unexpected output: » temoignage audio - «l'aquilà est une cité morte»
+
+
+(a,b)=(est,et)
+Input: il mesure 1,65 m (5 pi 5 po) est est d'origine asiatique.
+Correct output: il mesure 1,65 m (5 pi 5 po) et est d'origine asiatique.
+Unexpected output: il mesure 1,65 m (5 pi 5 po) et et d'origine asiatique.
+
+
+(a,b)=(est,et)
+Input: l'embellie entre québec est le front commun est écorchée
+Correct output: l'embellie entre québec et le front commun est écorchée
+Unexpected output: l'embellie entre québec et le front commun et écorchée
+
+
+(a,b)=(est,et)
+Input: mais gilles est venu me chercher est il m’a beaucoup aidé.
+Correct output: mais gilles est venu me chercher et il m’a beaucoup aidé.
+Unexpected output: mais gilles et venu me chercher et il m’a beaucoup aidé.
+
+
+(a,b)=(est,et)
+Input: ceux de marx est d'engels sont restés accrochés aux murs.
+Correct output: ceux de marx et d'engels sont restés accrochés aux murs.
+Unexpected output: ce de marx est d'engels sont restés accrochés aux murs.
+
+
+(a,b)=(est,et)
+Input: la chine promet d'être plus ouverte est d'augmenter ses importations
+Correct output: la chine promet d'être plus ouverte et d'augmenter ses importations
+Unexpected output: la chine promet d'être plus ouverte et d'augmenter ces importations
+
+
+(a,b)=(est,et)
+Input: brossard est une banlieue multiculturelle depuis longtemps est à
+Correct output: brossard est une banlieue multiculturelle depuis longtemps et à
+Unexpected output: brossard et une banlieue multiculturelle depuis longtemps et à
+
+
+(a,b)=(est,et)
+Input: personnellement, je leur lève tous est toutes mon chapeau!
+Correct output: personnellement, je leur lève tous et toutes mon chapeau!
+Unexpected output: personnellement, je leur lève tout est toutes mon chapeau!
+
+
+(a,b)=(est,et)
+Input: hailee est talentueuse est d’une grande sagesse.
+Correct output: hailee est talentueuse et d’une grande sagesse.
+Unexpected output: hailee et talentueuse et d’une grande sagesse.
+
+
+(a,b)=(est,et)
+Input: contest skate, roller est bmx
+Correct output: contest skate, roller et bmx
+Unexpected output: contet skate, roller et bmx
+
+
+(a,b)=(est,et)
+Input: un pour tous, est tous pour un!
+Correct output: un pour tous, et tous pour un!
+Unexpected output: un pour tous, est tout pour un!
+
+
+(a,b)=(est,et)
+Input: les actifs sont bien choisis est le rendement est très attrayant.
+Correct output: les actifs sont bien choisis et le rendement est très attrayant.
+Unexpected output: les actifs sont bien choisis et le rendement et très attrayant.
+
+
+(a,b)=(est,et)
+Input: je suis une personne en chair est en os qui travaille pour accomplir ses rêves.»
+Correct output: je suis une personne en chair et en os qui travaille pour accomplir ses rêves.»
+Unexpected output: je suis une personne en chair et en os qui travaille pour accomplir ces rêves.»
+
+
+(a,b)=(est,et)
+Input: j'ai quand même fait les jeux olympiques est le but est de toujours progresser.
+Correct output: j'ai quand même fait les jeux olympiques et le but est de toujours progresser.
+Unexpected output: j'ai quand même fait les jeux olympiques et le but et de toujours progresser.
+
+
+(a,b)=(est,et)
+Input: adam est australien est traverse l'amérique du nord en dodge caravan.
+Correct output: adam est australien et traverse l'amérique du nord en dodge caravan.
+Unexpected output: adam et australien est traverse l'amérique du nord en dodge caravan.
+
+
+(a,b)=(est,et)
+Input: se pourrait-il qu'elle survive est nous conduise vers un monde meilleur ?
+Correct output: se pourrait-il qu'elle survive et nous conduise vers un monde meilleur ?
+Unexpected output: ce pourrait-il qu'elle survive et nous conduise vers un monde meilleur ?
+
+
+(a,b)=(est,et)
+Input: l’endroit est magnifique, est propice à une fête réussie. »
+Correct output: l’endroit est magnifique, et propice à une fête réussie. »
+Unexpected output: l’endroit et magnifique, est propice à une fête réussie. »
+
+
+(a,b)=(et,est)
+Input: on n'a pas demandé à 1 200 personnes de venir et de tout casser dans la maison !
+Correct output: on n'a pas demandé à 1 200 personnes de venir et de tout casser dans la maison !
+Unexpected output: on n'a pas demandé à 1 200 personnes de venir et de tous casser dans la maison !
+
+
+(a,b)=(et,est)
+Input: l'encadrement et assuré par des équipes de personnes qualifiées et compétentes.
+Correct output: l'encadrement est assuré par des équipes de personnes qualifiées et compétentes.
+Unexpected output: l'encadrement et assuré par des équipes de personnes qualifiées et compétenteentes.
+
+
+(a,b)=(et,est)
+Input: elle et née à walbourg en 1923 et est l'aînée de deux enfants.
+Correct output: elle est née à walbourg en 1923 et est l'aînée de deux enfants.
+Unexpected output: elle est née à walbourg en 1923 et et l'aînée de deux enfants.
+
+
+(a,b)=(et,est)
+Input: le couperet et finalement tombé hier.
+Correct output: le couperet est finalement tombé hier.
+Unexpected output: le couperest et finalement tombé hier.
+
+
+(a,b)=(et,est)
+Input: je pense que la législation actuelle et adaptée et équilibrée.
+Correct output: je pense que la législation actuelle est adaptée et équilibrée.
+Unexpected output: je pense que la législation actuelle et adaptée est équilibrée.
+
+
+(a,b)=(et,est)
+Input: «le chapitre de ces élections et clos pour le moment, ajoute-t-elle.
+Correct output: «le chapitre de ces élections est clos pour le moment, ajoute-t-elle.
+Unexpected output: «le chapitre de ses élections et clos pour le moment, ajoute-t-elle.
+
+
+(a,b)=(et,est)
+Input: il et trop tard pour leur poser des questions ; ils sont morts.
+Correct output: il est trop tard pour leur poser des questions ; ils sont morts.
+Unexpected output: il est trop tard pour leurs poser des questions ; ils sont morts.
+
+
+(a,b)=(et,est)
+Input: quand didier deschamps et arrivé, on avait tous le même projet collectif.
+Correct output: quand didier deschamps est arrivé, on avait tous le même projet collectif.
+Unexpected output: quand didier deschamps et arrivé, on avait tout le même projet collectif.
+
+
+(a,b)=(et,est)
+Input: hanoï, ville du nord et capitale actuelle, et un incontournable.
+Correct output: hanoï, ville du nord et capitale actuelle, est un incontournable.
+Unexpected output: hanoï, ville du nord est capitale actuelle, et un incontournable.
+
+
+(a,b)=(et,est)
+Input: cet issue et cruciale pour éviter au pays un défaut de paiement.
+Correct output: cet issue est cruciale pour éviter au pays un défaut de paiement.
+Unexpected output: cette issue et cruciale pour éviter au pays un défaut de paiement.
+
+
+(a,b)=(et,est)
+Input: le grand prix de montréal et bel et bien mort et enterré.
+Correct output: le grand prix de montréal est bel et bien mort et enterré.
+Unexpected output: le grand prix de montréal est bel et bien mort est enterré.
+
+
+(a,b)=(et,est)
+Input: « notre rôle et de faire évoluer ces représentations .»
+Correct output: « notre rôle est de faire évoluer ces représentations .»
+Unexpected output: « notre rôle et de faire évoluer ses représentations .»
+
+
+(a,b)=(et,est)
+Input: pour ce qui et du surmenage s ...
+Correct output: pour ce qui est du surmenage s ...
+Unexpected output: pour ceux qui et du surmenage s ...
+
+
+(a,b)=(et,est)
+Input: le solaire et une de ces sources.
+Correct output: le solaire est une de ces sources.
+Unexpected output: le solaire et une de ses sources.
+
+
+(a,b)=(et,est)
+Input: il et en rapport avec ce que j'ai toujours connu dans les affaires.
+Correct output: il est en rapport avec ce que j'ai toujours connu dans les affaires.
+Unexpected output: il est en rapport avec ceux que j'ai toujours connu dans les affaires.
+
+
+(a,b)=(ces,ses)
+Input: malgré tous ces aléas, on est revenu.
+Correct output: malgré tous ces aléas, on est revenu.
+Unexpected output: malgré tout ses aléas, on est revenu.
+
+
+(a,b)=(ces,ses)
+Input: d?autres artistes chanteront ou mettront en musique certaines de ces lettres.
+Correct output: d?autres artistes chanteront ou mettront en musique certaines de ces lettres.
+Unexpected output: d?autres artistes chanteront où mettront en musique certaines de ces lettres.
+
+
+(a,b)=(ces,ses)
+Input: nous devons tout à ces premiers nerds.
+Correct output: nous devons tout à ces premiers nerds.
+Unexpected output: nous devons tous à ces premiers nerds.
+
+
+(a,b)=(ces,ses)
+Input: je connais tout de tous ces grands québécois, et je les aime et les admire.
+Correct output: je connais tout de tous ces grands québécois, et je les aime et les admire.
+Unexpected output: je connais tous de tous ces grands québécois, et je les aime et les admire.
+
+
+(a,b)=(ces,ses)
+Input: la presse a visité, mardi, deux de ces résidences totalement décrépites.
+Correct output: la presse a visité, mardi, deux de ces résidences totalement décrépites.
+Unexpected output: la presse a visité, mardi, deux de ses résidences totalement décréprépites.
+
+
+(a,b)=(ces,ses)
+Input: conscients de leur formidable potentiel, ces pays leur ouvrent grand les bras.
+Correct output: conscients de leur formidable potentiel, ces pays leur ouvrent grand les bras.
+Unexpected output: conscients de leurs formidable potentiel, ces pays leur ouvrent grand les bras.
+
+
+(a,b)=(ces,ses)
+Input: il faut comprendre que la relation entre ces deux dossiers est fondamentalement politique.
+Correct output: il faut comprendre que la relation entre ces deux dossiers est fondamentalement politique.
+Unexpected output: il faut comprendre que la relation entre ces deux dossiers et fondamentalement politique.
+
+
+(a,b)=(ces,ses)
+Input: elle tient également à leur offrir ces condoléances publiquement.
+Correct output: elle tient également à leur offrir ses condoléances publiquement.
+Unexpected output: elle tient également à leurs offrir ses condoléances publiquement.
+
+
+(a,b)=(ces,ses)
+Input: mais ces joueurs devront se mettre dans la tête que ça ne marche pas à tout coup.
+Correct output: mais ses joueurs devront se mettre dans la tête que ça ne marche pas à tout coup.
+Unexpected output: mais ces joueurs devront se mettre dans la tête que ça ne marche pas à tous coup.
+
+
+(a,b)=(ces,ses)
+Input: la difficulté est de montrer ces différences sans exposer ses différends.
+Correct output: la difficulté est de montrer ses différences sans exposer ses différends.
+Unexpected output: la difficulté est de montrer ces différences sans exposer ces différends.
+
+
+(a,b)=(ces,ses)
+Input: non, elle ne fait pas du tout ces 52 ans.
+Correct output: non, elle ne fait pas du tout ses 52 ans.
+Unexpected output: non, elle ne fait pas du tous ces 52 ans.
+
+
+(a,b)=(ces,ses)
+Input: il avait construit sa maison tout seul de ces propres mains pendant trois ans.
+Correct output: il avait construit sa maison tout seul de ses propres mains pendant trois ans.
+Unexpected output: il avait construit sa maison tous seul de ses propres mains pendant trois ans.
+
+
+(a,b)=(ses,ces)
+Input: leur fit tant miroiter, qu’il furent ses “apôtres”.
+Correct output: leur fit tant miroiter, qu’il furent ses “apôtres”.
+Unexpected output: leur fit tant miroiter, qu’il furent ses “ôtres”.
+
+
+(a,b)=(ses,ces)
+Input: dsk est libre de ses mouvements aux etats-unis.
+Correct output: dsk est libre de ses mouvements aux etats-unis.
+Unexpected output: dsk et libre de ses mouvements aux etats-unis.
+
+
+(a,b)=(ses,ces)
+Input: elle accompagne son mari en algérie où naissent ses deux premiers enfants.
+Correct output: elle accompagne son mari en algérie où naissent ses deux premiers enfants.
+Unexpected output: elle accompagne son mari en algérie ou naissent ses deux premiers enfants.
+
+
+(a,b)=(ses,ces)
+Input: le petit monde littéraire français a ses lois, ses rites et ses habitudes.
+Correct output: le petit monde littéraire français a ses lois, ses rites et ses habitudes.
+Unexpected output: le petit monde littéraire français a ses lois, ces rites et ses habitudes.
+
+
+(a,b)=(ses,ces)
+Input: il y a 24 places en finale, pauline a ses chances.
+Correct output: il y a 24 places en finale, pauline a ses chances.
+Unexpected output: il y a 24 places en finale, pauline à ses chances.
+
+
+(a,b)=(ses,ces)
+Input: et puis, il y aura ce récital donné pour son jubilé, ses cinquante ans.
+Correct output: et puis, il y aura ce récital donné pour son jubilé, ses cinquante ans.
+Unexpected output: et puis, il y aura se récital donné pour son jubilé, ses cinquante ans.
+
+
+(a,b)=(ses,ces)
+Input: son mari, frederic von anhalt, «est à ses côtés.
+Correct output: son mari, frederic von anhalt, «est à ses côtés.
+Unexpected output: son mari, frederic von anhalt, «et à ses côtés.
+
+
+(a,b)=(ses,ces)
+Input: c'est alors que se sont amorcés ses problèmes avec une superviseure de stage.
+Correct output: c'est alors que se sont amorcés ses problèmes avec une superviseure de stage.
+Unexpected output: c'est alors que ce sont amorcés ses problèmes avec une superviseure de stage.
+
+
+(a,b)=(ses,ces)
+Input: selon le fn, la moyenne d'âge de ses candidats est de 51 ans.
+Correct output: selon le fn, la moyenne d'âge de ses candidats est de 51 ans.
+Unexpected output: selon le fn, la moyenne d'âge de ses candidats et de 51 ans.
+
+
+(a,b)=(ses,ces)
+Input: la trahison ou l'avidité de ses disciples lui auraient paru impossibles.
+Correct output: la trahison ou l'avidité de ses disciples lui auraient paru impossibles.
+Unexpected output: la trahison où l'avidité de ses disciples lui auraient paru impossibles.
+
+
+(a,b)=(ses,ces)
+Input: j'ai tout vécu ses dernières années.
+Correct output: j'ai tout vécu ces dernières années.
+Unexpected output: j'ai tous vécu ces dernières années.
+
+
+(a,b)=(ses,ces)
+Input: gagner tous ses prix et ces honneurs, ça ne change pas le monde, sauf que...
+Correct output: gagner tous ces prix et ces honneurs, ça ne change pas le monde, sauf que...
+Unexpected output: gagner tous ses prix et ses honneurs, ça ne change pas le monde, sauf que...
+
+
+(a,b)=(ses,ces)
+Input: «non, chacune de ses situations est unique», a-t-elle dit.
+Correct output: «non, chacune de ces situations est unique», a-t-elle dit.
+Unexpected output: «non, chacune de ces situations et unique», a-t-elle dit.
+
+
+(a,b)=(ses,ces)
+Input: le but ultime de ses olympiades est d'aimer le latin
+Correct output: le but ultime de ces olympiades est d'aimer le latin
+Unexpected output: le but ultime de ses olympiades et d'aimer le latin
+
+
+(a,b)=(ses,ces)
+Input: «ce qu'il adviendra ce toutes ses données reste une question encore largement ouverte.»
+Correct output: «ce qu'il adviendra ce toutes ces données reste une question encore largement ouverte.»
+Unexpected output: «ce qu'il adviendra ceux toutes ses données reste une question encore largement ouverte.»
+
+
+(a,b)=(ses,ces)
+Input: une hausse de ses péages est déjà prévue pour 2010. (source afp)
+Correct output: une hausse de ces péages est déjà prévue pour 2010. (source afp)
+Unexpected output: une hausse de ses péages et déjà prévue pour 2010. (source afp)
+
+
+(a,b)=(ses,ces)
+Input: la plus grande prudence est de mise ses jours-là.
+Correct output: la plus grande prudence est de mise ces jours-là.
+Unexpected output: la plus grande prudence et de mise ces jours-là.
+
+
+(a,b)=(ce,se)
+Input: « ils correspondent à ce que l’on cherchait.
+Correct output: « ils correspondent à ce que l’on cherchait.
+Unexpected output: « ils correspondent à ceux que l’on cherchait.
+
+
+(a,b)=(ce,se)
+Input: les joueurs doivent nous montrer ce qui les a amenés là.
+Correct output: les joueurs doivent nous montrer ce qui les a amenés là.
+Unexpected output: les joueurs doivent nous montrer ceux qui les a amenés là.
+
+
+(a,b)=(ce,se)
+Input: et on ne sait pas ce qu'il y a en-dessous de ces routes.
+Correct output: et on ne sait pas ce qu'il y a en-dessous de ces routes.
+Unexpected output: et on ne sait pas ce qu'il y a en-dessous de ses routes.
+
+
+(a,b)=(ce,se)
+Input: et on veut être à la hauteur de ce que l'on dit.
+Correct output: et on veut être à la hauteur de ce que l'on dit.
+Unexpected output: et on veut être à la hauteur de ceux que l'on dit.
+
+
+(a,b)=(ce,se)
+Input: pourquoi faut-il que nous demandions ce qui ne dépend que de nous ?
+Correct output: pourquoi faut-il que nous demandions ce qui ne dépend que de nous ?
+Unexpected output: pourquoi faut-il que nous demandions ceux qui ne dépend que de nous ?
+
+
+(a,b)=(ce,se)
+Input: mais dans le fond, ce qui me laisse vraiment des regrets, c'est la descente.
+Correct output: mais dans le fond, ce qui me laisse vraiment des regrets, c'est la descente.
+Unexpected output: mais dans le fond, ceux qui me laisse vraiment des regrets, c'est la descente.
+
+
+(a,b)=(ce,se)
+Input: et il y a ce lapsus en toute fin d'entretien.
+Correct output: et il y a ce lapsus en toute fin d'entretien.
+Unexpected output: et il y a ceux lapsus en toute fin d'entretien.
+
+
+(a,b)=(ce,se)
+Input: vacances d'été du ce des mdpa
+Correct output: vacances d'été du ce des mdpa
+Unexpected output: vacances d'été du ceux des mdpa
+
+
+(a,b)=(ce,se)
+Input: cela ne résout pas ce qui a été défait par la réforme de 2010.
+Correct output: cela ne résout pas ce qui a été défait par la réforme de 2010.
+Unexpected output: cela ne résout pas ceux qui a été défait par la réforme de 2010.
+
+
+(a,b)=(ce,se)
+Input: nous avons donné des mises en échec solides, ce qui a ralenti les spitfires.
+Correct output: nous avons donné des mises en échec solides, ce qui a ralenti les spitfires.
+Unexpected output: nous avons donné des mises en échec solides, ceux qui a ralenti les spitfires.
+
+
+(a,b)=(ce,se)
+Input: ceux qui aiment faire de l'effet, ce donner en spectacle.
+Correct output: ceux qui aiment faire de l'effet, se donner en spectacle.
+Unexpected output: ce qui aiment faire de l'effet, se donner en spectacle.
+
+
+(a,b)=(ce,se)
+Input: on peut tous ce rendre compte qu’il était un gagnant à l‘époque.”
+Correct output: on peut tous se rendre compte qu’il était un gagnant à l‘époque.”
+Unexpected output: on peut tout se rendre compte qu’il était un gagnant à l‘époque.”
+
+
+(a,b)=(ce,se)
+Input: valverde et rodriguez ce contentent de leurs places sur le podium.
+Correct output: valverde et rodriguez se contentent de leurs places sur le podium.
+Unexpected output: valverde et rodriguez ceux contentent de leurs places sur le podium.
+
+
+(a,b)=(ce,se)
+Input: est-ce que montréal possède tous les outils pour ce dynamiser ?
+Correct output: est-ce que montréal possède tous les outils pour se dynamiser ?
+Unexpected output: est-ce que montréal possède tous les outils pour ceux dynamiser ?
+
+
+(a,b)=(se,ce)
+Input: «les rêves permettent de réaliser se qui nous tient le plus à coeur.
+Correct output: «les rêves permettent de réaliser ce qui nous tient le plus à coeur.
+Unexpected output: «les rêves permettent de réaliser ceux qui nous tient le plus à coeur.
+
+
+(a,b)=(se,ce)
+Input: de l'eau et un peu de miel, c'est tout se qu'il me faut.
+Correct output: de l'eau et un peu de miel, c'est tout ce qu'il me faut.
+Unexpected output: de l'eau est un peu de miel, c'est tout ce qu'il me faut.
+
+
+(a,b)=(se,ce)
+Input: on y met tout dedans, tout se qui rassure.
+Correct output: on y met tout dedans, tout ce qui rassure.
+Unexpected output: on y met tous dedans, tous ceux qui rassure.
+
+
+(a,b)=(se,ce)
+Input: rémunération: 22k¿ se poste vous intéresse?
+Correct output: rémunération: 22k¿ ce poste vous intéresse?
+Unexpected output: rémunération: 22k² se poste vous intéresse?
+
+
+(a,b)=(se,ce)
+Input: se sera l'objet de mon reportage ce soir a tva.
+Correct output: ce sera l'objet de mon reportage ce soir a tva.
+Unexpected output: ce sera l'objet de mon reportage ce soir à tva.
+
+
+(a,b)=(se,ce)
+Input: il se retrouve donc en cohérence avec se qui reste le point fort de son image.
+Correct output: il se retrouve donc en cohérence avec ce qui reste le point fort de son image.
+Unexpected output: il se retrouve donc en cohérence avec ceux qui reste le point fort de son image.
+
+
+(a,b)=(se,ce)
+Input: dans se contexte, les restaurateurs peuvent-ils augmenter leurs prix?
+Correct output: dans ce contexte, les restaurateurs peuvent-ils augmenter leurs prix?
+Unexpected output: dans ce contexte, les restaurateurs peuvent-ils augmenter leur prix?
+
+
+(a,b)=(se,ce)
+Input: vous savez tous se que je pense de la religion.
+Correct output: vous savez tous ce que je pense de la religion.
+Unexpected output: vous savez tout ce que je pense de la religion.
+
+
+(a,b)=(se,ce)
+Input: les patineurs l’ont appris à leurs dépens se matin.
+Correct output: les patineurs l’ont appris à leurs dépens ce matin.
+Unexpected output: les patineurs l’ont appris à leur dépens ce matin.
+
+
+(a,b)=(se,ce)
+Input: toutefois, on peut regarder se qui a moins bien fonctionné.
+Correct output: toutefois, on peut regarder ce qui a moins bien fonctionné.
+Unexpected output: toutefois, on peut regarder ceux qui a moins bien fonctionné.
+
+
+(a,b)=(se,ce)
+Input: je dois comprendre se qui fonctionne et ne fonctionne pas», a-t-il dit.
+Correct output: je dois comprendre ce qui fonctionne et ne fonctionne pas», a-t-il dit.
+Unexpected output: je dois comprendre ceux qui fonctionne et ne fonctionne pas», a-t-il dit.
+
+
+(a,b)=(se,ce)
+Input: « hmmm qu'est se qui sent bon, comme ça ? »
+Correct output: « hmmm qu'est ce qui sent bon, comme ça ? »
+Unexpected output: « hmmm qu'est ceux qui sent bon, comme ça ? »
+
+
+(a,b)=(ou,où)
+Input: le propos peut paraître absurde ou tout du moins frustrant.
+Correct output: le propos peut paraître absurde ou tout du moins frustrant.
+Unexpected output: le propos peut paraître absurde ou tous du moins frustrant.
+
+
+(a,b)=(ou,où)
+Input: un capteur infrarouge permet de prévenir tout risque pour la peau ou les yeux.
+Correct output: un capteur infrarouge permet de prévenir tout risque pour la peau ou les yeux.
+Unexpected output: un capteur infrarouge permet de prévenir tous risque pour la peau ou les yeux.
+
+
+(a,b)=(ou,où)
+Input: ils vivent dans leurs pays d'origine ou en france.
+Correct output: ils vivent dans leurs pays d'origine ou en france.
+Unexpected output: ils vivent dans leur pays d'origine ou en france.
+
+
+(a,b)=(ou,où)
+Input: la flashmob ou l`art de l`opération commando par nouvelobs
+Correct output: la flashmob ou l`art de l`opération commando par nouvelobs
+Unexpected output: la flashmob ou l'art de l'opération commando par nouvelobs
+
+
+(a,b)=(ou,où)
+Input: se poser ou ne pas se poser: telle est la question
+Correct output: se poser ou ne pas se poser: telle est la question
+Unexpected output: se poser ou ne pas se poser: telle et la question
+
+
+(a,b)=(ou,où)
+Input: «en tchétchénie, tous savaient ou trouver roustam»
+Correct output: «en tchétchénie, tous savaient où trouver roustam»
+Unexpected output: «en tchétchénie, tout savaient où trouver roustam»
+
+
+(a,b)=(ou,où)
+Input: là même ou les beatles ont enregistré tous leurs albums.
+Correct output: là même où les beatles ont enregistré tous leurs albums.
+Unexpected output: la même où les beatles ont enregistré tous leurs albums.
+
+
+(a,b)=(ou,où)
+Input: là ou l'entraîneur engueule ses protégés ou leur vient en aide.
+Correct output: là où l'entraîneur engueule ses protégés ou leur vient en aide.
+Unexpected output: là où l'entraîneur engueule ses protégés où leur vient en aide.
+
+
+(a,b)=(ou,où)
+Input: et les herr wiesengrund, alias adorno, ils étaient ou ?
+Correct output: et les herr wiesengrund, alias adorno, ils étaient où ?
+Unexpected output: et les herr wiesengrund, alias adorno, ils étaient o ?
+
+
+(a,b)=(ou,où)
+Input: la ou le bât blesse, c'est vraiment du côté des personnages secondaires.
+Correct output: la où le bât blesse, c'est vraiment du côté des personnages secondaires.
+Unexpected output: là où le bât blesse, c'est vraiment du côté des personnages secondaires.
+
+
+(a,b)=(ou,où)
+Input: «c'est toujours difficile de prévoir le moment exact ou ils seront à leur plus bas.
+Correct output: «c'est toujours difficile de prévoir le moment exact où ils seront à leur plus bas.
+Unexpected output: «c'est toujours difficile de prévoir le moment exact où ils seront à leurs plus bas.
+
+
+(a,b)=(ou,où)
+Input: par une belle soirée d’été, vous vous demandez ou sortir au québec?
+Correct output: par une belle soirée d’été, vous vous demandez où sortir au québec?
+Unexpected output: par une belle soirée d’été, vous demandez ou sortir au québec?
+
+
+(a,b)=(ou,où)
+Input: je demandais à mes parents "on est ou ?"
+Correct output: je demandais à mes parents "on est où ?"
+Unexpected output: je demandais à mes parents "on et où ?"
+
+
+(a,b)=(ou,où)
+Input: on se demande toujours ou est la «pogne».
+Correct output: on se demande toujours où est la «pogne».
+Unexpected output: on se demande toujours où est là «pogne».
+
+
+(a,b)=(où,ou)
+Input: le jour où je vais aller a l'aide sociale... méchante "drop"!"
+Correct output: le jour où je vais aller a l'aide sociale... méchante "drop"!"
+Unexpected output: le jour où je vais aller à l'aide sociale... méchante "drop"!"
+
+
+(a,b)=(où,ou)
+Input: la donne est pire au québec, où les défaillances ont augmenté de 15%.
+Correct output: la donne est pire au québec, où les défaillances ont augmenté de 15%.
+Unexpected output: la donne et pire au québec, où les défaillances ont augmenté de 15%.
+
+
+(a,b)=(où,ou)
+Input: le moment où tout s'arrête, où plus rien d'autre n'existe.
+Correct output: le moment où tout s'arrête, où plus rien d'autre n'existe.
+Unexpected output: le moment où tout s'arrête, ou plus rien d'autre n'existe.
+
+
+(a,b)=(où,ou)
+Input: vrai désaveu de leur fac où simple volonté de diversifier leur cursus ?
+Correct output: vrai désaveu de leur fac ou simple volonté de diversifier leur cursus ?
+Unexpected output: vrai désaveu de leur fac ou simple volonté de diversifier leurs cursus ?
+
+
+(a,b)=(la,là)
+Input: c'est la branche est qui est en chantier depuis juillet 2006.
+Correct output: c'est la branche est qui est en chantier depuis juillet 2006.
+Unexpected output: c'est la branche et qui est en chantier depuis juillet 2006.
+
+
+(a,b)=(la,là)
+Input: «ils disent la vérité ou ils mentent ?
+Correct output: «ils disent la vérité ou ils mentent ?
+Unexpected output: «ils disent la vérité où ils mentent ?
+
+
+(a,b)=(la,là)
+Input: on parle de la mort d'une façon à la fois très directe et très contournée.
+Correct output: on parle de la mort d'une façon à la fois très directe et très contournée.
+Unexpected output: on parle de la mort d'une façon à la fois très directe est très contournée.
+
+
+(a,b)=(la,là)
+Input: 14h30).- a qui la première victoire ?
+Correct output: 14h30).- a qui la première victoire ?
+Unexpected output: 14h30).- à qui la première victoire ?
+
+
+(a,b)=(la,là)
+Input: on a passé la soirée et on est rentrés le lendemain".
+Correct output: on a passé la soirée et on est rentrés le lendemain".
+Unexpected output: on a passé la soirée et on et rentrés le lendemain".
+
+
+(a,b)=(la,là)
+Input: il y avait quand même la charia sous ce régime.”
+Correct output: il y avait quand même la charia sous ce régime.”
+Unexpected output: il y avait quand même la charia sous se régime.”
+
+
+(a,b)=(la,là)
+Input: sauf que la fille, ici, est brune.
+Correct output: sauf que la fille, ici, est brune.
+Unexpected output: sauf que la fille, ici, et brune.
+
+
+(a,b)=(la,là)
+Input: «je suis mon enfant dans ses intérêts», explique la jeune mère.
+Correct output: «je suis mon enfant dans ses intérêts», explique la jeune mère.
+Unexpected output: «je suis mon enfant dans ces intérêts», explique la jeune mère.
+
+
+(a,b)=(la,là)
+Input: c'est de la que daterait leur séparation d'avec ce qui devient le judaïsme.
+Correct output: c'est de là que daterait leur séparation d'avec ce qui devient le judaïsme.
+Unexpected output: c'est de là que daterait leur séparation d'avec ceux qui devient le judaïsme.
+
+
+(a,b)=(la,là)
+Input: d'être la dans le décor des mots est troublant.
+Correct output: d'être là dans le décor des mots est troublant.
+Unexpected output: d'être là dans le décor des mots et troublant.
+
+
+(a,b)=(la,là)
+Input: ce jour la certains ce sont levés en retard, ça leur a sauvé la vie.
+Correct output: ce jour là certains ce sont levés en retard, ça leur a sauvé la vie.
+Unexpected output: ce jour la certains se sont levés en retard, ça leur a sauvé la vie.
+
+
+(a,b)=(la,là)
+Input: m. legault pourrait réussir la ou l'adq a échoué.»
+Correct output: m. legault pourrait réussir là ou l'adq a échoué.»
+Unexpected output: m. legault pourrait réussir là où l'adq a échoué.»
+
+
+(a,b)=(la,là)
+Input: on est resté la des heures, debout, à attendre ", a ajouté un autre.
+Correct output: on est resté là des heures, debout, à attendre ", a ajouté un autre.
+Unexpected output: on est resté là des heures, debout, a attendre ", a ajouté un autre.
+
+
+(a,b)=(la,là)
+Input: cet avion est la en cas de défaillance du premier.
+Correct output: cet avion est là en cas de défaillance du premier.
+Unexpected output: cette avion est là en cas de défaillance du premier.
+
+
+(a,b)=(la,là)
+Input: toyota est la pour apprendre
+Correct output: toyota est là pour apprendre
+Unexpected output: toyota et là pour apprendre
+
+
+(a,b)=(la,là)
+Input: mais, la encore, se pose une question de forme juridique.
+Correct output: mais, là encore, se pose une question de forme juridique.
+Unexpected output: mais, là encore, ce pose une question de forme juridique.
+
+
+(a,b)=(là,la)
+Input: est-ce que je suis plus utile là ou ailleurs ?
+Correct output: est-ce que je suis plus utile là ou ailleurs ?
+Unexpected output: est-ce que je suis plus utile là où ailleurs ?
+
+
+(a,b)=(là,la)
+Input: c'est là sans doute qu'il a contracté ces germes.
+Correct output: c'est là sans doute qu'il a contracté ces germes.
+Unexpected output: c'est là sans doute qu'il a contracté ses germes.
+
+
+(a,b)=(là,la)
+Input: il est là ou non.
+Correct output: il est là ou non.
+Unexpected output: il est là où non.
+
+
+(a,b)=(là,la)
+Input: un univers schizo tout noir pour dire que diesel joue toujours là rébellion.
+Correct output: un univers schizo tout noir pour dire que diesel joue toujours la rébellion.
+Unexpected output: un univers schizo tous noir pour dire que diesel joue toujours la rébellion.
+
+
+(a,b)=(là,la)
+Input: ils souhaitent tous laisser une vaste place au dialogue et à là concertation.
+Correct output: ils souhaitent tous laisser une vaste place au dialogue et à la concertation.
+Unexpected output: ils souhaitent tout laisser une vaste place au dialogue et à la concertation.
+
+
+(a,b)=(là,la)
+Input: il faut dire que mes enfants sont tombés dans là soupe tout jeunes.
+Correct output: il faut dire que mes enfants sont tombés dans la soupe tout jeunes.
+Unexpected output: il faut dire que mes enfants sont tombés dans la soupe tous jeunes.
+
+
+(a,b)=(là,la)
+Input: on songe entre autres à des assouplissements à là «ligne de parti».
+Correct output: on songe entre autres à des assouplissements à la «ligne de parti».
+Unexpected output: on songe entre autres a des assouplissements à là «ligne de parti».
+
+
+(a,b)=(tout,tous)
+Input: comme tout le monde et comme tout pouvoir en démocratie, il dépend de la cité.
+Correct output: comme tout le monde et comme tout pouvoir en démocratie, il dépend de la cité.
+Unexpected output: comme tout le monde est comme tout pouvoir en démocratie, il dépend de la cité.
+
+
+(a,b)=(tout,tous)
+Input: le pari a été fait alors que tout le monde ne misait pas sur cette artiste.
+Correct output: le pari a été fait alors que tout le monde ne misait pas sur cette artiste.
+Unexpected output: le pari a été fait alors que tout le monde ne misait pas sur cet artiste.
+
+
+(a,b)=(tout,tous)
+Input: j'aime ses souleurs depuis tout petit.
+Correct output: j'aime ses souleurs depuis tout petit.
+Unexpected output: j'aime ses souleur depuis tout petit.
+
+
+(a,b)=(tout,tous)
+Input: je dis tout haut ce que les gens pensent tout bas.»
+Correct output: je dis tout haut ce que les gens pensent tout bas.»
+Unexpected output: je dis tout haut ce que les gens pensent tous bas.»
+
+
+(a,b)=(tout,tous)
+Input: et elle conditionne tout prêt à ces changements.
+Correct output: et elle conditionne tout prêt à ces changements.
+Unexpected output: et elle conditionne tout prêt à ses changements.
+
+
+(a,b)=(tout,tous)
+Input: le volontariat dont on nous parle est tout relatif... ».
+Correct output: le volontariat dont on nous parle est tout relatif... ».
+Unexpected output: le volontariat dont on nous parle et tout relatif... ».
+
+
+(a,b)=(tout,tous)
+Input: cette avant première est ouverte à tout au tarif unique de 5 €.
+Correct output: cette avant première est ouverte à tous au tarif unique de 5 €.
+Unexpected output: cet avant première est ouverte à tous au tarif unique de 5 €.
+
+
+(a,b)=(tout,tous)
+Input: vente de tout leurs biens
+Correct output: vente de tous leurs biens
+Unexpected output: vente de tout leur biens
+
+
+(a,b)=(tout,tous)
+Input: tout si différents et tous pourtant si proches.
+Correct output: tous si différents et tous pourtant si proches.
+Unexpected output: tout si différents et tout pourtant si proches.
+
+
+(a,b)=(tout,tous)
+Input: « aujourd'hui, je suis écoeuré de voir tout ces gens qui viennent tout prendre...
+Correct output: « aujourd'hui, je suis écoeuré de voir tous ces gens qui viennent tout prendre...
+Unexpected output: « aujourd'hui, je suis écoeuré de voir tous ces gens qui viennent tous prendre...
+
+
+(a,b)=(tout,tous)
+Input: la turquie devra déjouer tout les pronostics pour battre cette espagne lundi.
+Correct output: la turquie devra déjouer tous les pronostics pour battre cette espagne lundi.
+Unexpected output: la turquie devra déjouer tous les pronostics pour battre cet espagne lundi.
+
+
+(a,b)=(tous,tout)
+Input: «le pq perd un point ou deux tous les mois», constate rivest.
+Correct output: «le pq perd un point ou deux tous les mois», constate rivest.
+Unexpected output: «le pq perd un point où deux tous les mois», constate rivest.
+
+
+(a,b)=(tous,tout)
+Input: "une tournée, c'est une remise en question tous les soirs et tous le matins.
+Correct output: "une tournée, c'est une remise en question tous les soirs et tous le matins.
+Unexpected output: "une tournée, c'est une remise en question tous les soirs et tout le matins.
+
+
+(a,b)=(tous,tout)
+Input: car internet permet a tous les hommes de communiquer avec les autres hommes.
+Correct output: car internet permet a tous les hommes de communiquer avec les autres hommes.
+Unexpected output: car internet permet à tous les hommes de communiquer avec les autres hommes.
+
+
+(a,b)=(tous,tout)
+Input: et ce pour tous les particuliers employeurs imposables.
+Correct output: et ce pour tous les particuliers employeurs imposables.
+Unexpected output: et ceux pour tous les particuliers employeurs imposables.
+
+
+(a,b)=(tous,tout)
+Input: «c'était idiot: à cette époque de l'année, tous les cris sont dans le bois!»
+Correct output: «c'était idiot: à cette époque de l'année, tous les cris sont dans le bois!»
+Unexpected output: «c'était idiot: à cet époque de l'année, tous les cris sont dans le bois!»
+
+
+(a,b)=(tous,tout)
+Input: "face à cette énorme tragédie, nous sommes tous ensemble.
+Correct output: "face à cette énorme tragédie, nous sommes tous ensemble.
+Unexpected output: "face à cet énorme tragédie, nous sommes tous ensemble.
+
+
+(a,b)=(tous,tout)
+Input: cette hiver-là, ils tuent tous de même 143 lapins.
+Correct output: cette hiver-là, ils tuent tout de même 143 lapins.
+Unexpected output: cet hiver-là, ils tuent tout de même 143 lapins.
+
+
+(a,b)=(tous,tout)
+Input: une vraie industrie, avec tous ce qui l'accompagne.
+Correct output: une vraie industrie, avec tout ce qui l'accompagne.
+Unexpected output: une vraie industrie, avec tous ceux qui l'accompagne.
+
+
+(a,b)=(tous,tout)
+Input: « mon chéri à rattrapé tous cela ce matin (lire hier) ! »
+Correct output: « mon chéri à rattrapé tout cela ce matin (lire hier) ! »
+Unexpected output: « mon chéri a rattrapé tout cela ce matin (lire hier) ! »
+
+
+(a,b)=(tous,tout)
+Input: littérature étrangère - tous nouveau, tout beau
+Correct output: littérature étrangère - tout nouveau, tout beau
+Unexpected output: littérature étrangère - tout nouveau, tous beau
+
+
+(a,b)=(tous,tout)
+Input: tous les oppose, tout les rapproche ?
+Correct output: tout les oppose, tout les rapproche ?
+Unexpected output: tous les oppose, tous les rapproche ?
+
+
+(a,b)=(tous,tout)
+Input: je t’emmerde = je ne t’aime pas tous de suite
+Correct output: je t’emmerde = je ne t’aime pas tout de suite
+Unexpected output: je t’emmerde et  je ne t’aime pas tout de suite
+
+
+(a,b)=(tous,tout)
+Input: nous donnerons tous ce que nous avons.»
+Correct output: nous donnerons tout ce que nous avons.»
+Unexpected output: nous donnerons tous ceux que nous avons.»
+
+
+(a,b)=(leur,leurs)
+Input: l'awwa la leur a accordée au début de l'année suivante.
+Correct output: l'awwa la leur a accordée au début de l'année suivante.
+Unexpected output: l'awwa là leur a accordée au début de l'année suivante.
+
+
+(a,b)=(leur,leurs)
+Input: ce dernier a omis de leur mentionner ce détail.
+Correct output: ce dernier a omis de leur mentionner ce détail.
+Unexpected output: ce dernier a omis de leur mentionner se détail.
+
+
+(a,b)=(leur,leurs)
+Input: le coffre de leur 4 × 4 rempli, les citadins repartent chez eux.
+Correct output: le coffre de leur 4 × 4 rempli, les citadins repartent chez eux.
+Unexpected output: le coffre de leur 4 ã 4 rempli, les citadins repartent chez eux.
+
+
+(a,b)=(leur,leurs)
+Input: les particuliers déposent leur meubles ou appellent pour qu'on vienne les récupérer.
+Correct output: les particuliers déposent leurs meubles ou appellent pour qu'on vienne les récupérer.
+Unexpected output: les particuliers déposent leur meubles où appellent pour qu'on vienne les récupérer.
+
+
+(a,b)=(leur,leurs)
+Input: ce n'est pas à nous à payer pour leur solvants et autres contaminants.
+Correct output: ce n'est pas à nous à payer pour leurs solvants et autres contaminants.
+Unexpected output: ce n'est pas à nous a payer pour leurs solvants et autres contaminants.
+
+
+(a,b)=(leur,leurs)
+Input: "leurs dirigeants et leur militants sortent du champ de bataille.
+Correct output: "leurs dirigeants et leurs militants sortent du champ de bataille.
+Unexpected output: "leur dirigeants et leurs militants sortent du champ de bataille.
+
+
+(a,b)=(leur,leurs)
+Input: un de leur produits vedettes est le riopel de l’isle.
+Correct output: un de leurs produits vedettes est le riopel de l’isle.
+Unexpected output: un de leurs produits vedettes et le riopel de l’isle.
+
+
+(a,b)=(leur,leurs)
+Input: «moi, mes enfants ont tous fait leur nuits à trois semaines pile poil.
+Correct output: «moi, mes enfants ont tous fait leurs nuits à trois semaines pile poil.
+Unexpected output: «moi, mes enfants ont tout fait leurs nuits à trois semaines pile poil.
+
+
+(a,b)=(leurs,leur)
+Input: ils devront confirmer leurs déclarations ou apporter des preuves supplémentaires.
+Correct output: ils devront confirmer leurs déclarations ou apporter des preuves supplémentaires.
+Unexpected output: ils devront confirmer leurs déclarations où apporter des preuves supplémentaires.
+
+
+(a,b)=(leurs,leur)
+Input: «il faut considérer leurs intérêts dans leurs choix de lecture.»
+Correct output: «il faut considérer leurs intérêts dans leurs choix de lecture.»
+Unexpected output: «il faut considérer leurs intérêts dans leur choix de lecture.»
+
+
+(a,b)=(leurs,leur)
+Input: et si leurs compagne tombait amoureuse d'un de ces amants ?
+Correct output: et si leur compagne tombait amoureuse d'un de ces amants ?
+Unexpected output: et si leur compagne tombait amoureuse d'un de ses amants ?
+
+
+(a,b)=(leurs,leur)
+Input: celle qu'on leurs inculquait à l'époque de leur 15 ans.
+Correct output: celle qu'on leur inculquait à l'époque de leur 15 ans.
+Unexpected output: celle qu'on leur inculquait à l'époque de leurs 15 ans.
+
+
+(a,b)=(leurs,leur)
+Input: certains tombent carrément en bas leurs chaise, ou se mettent à pleurer».
+Correct output: certains tombent carrément en bas leur chaise, ou se mettent à pleurer».
+Unexpected output: certains tombent carrément en bas leur chaise, où se mettent à pleurer».
+
+
+(a,b)=(leurs,leur)
+Input: debouts sur un appareil, denis et stéphane vibrent de tout leurs corps.
+Correct output: debouts sur un appareil, denis et stéphane vibrent de tout leur corps.
+Unexpected output: debouts sur un appareil, denis et stéphane vibrent de tous leurs corps.
+
+
+(a,b)=(ceux,ce)
+Input: « un grand merci aussi à tous ceux qui m'ont épaulé au cours de ces 19 ans. »
+Correct output: « un grand merci aussi à tous ceux qui m'ont épaulé au cours de ces 19 ans. »
+Unexpected output: « un grand merci aussi à tous ceux qui m'ont épaulé au cours de ses 19 ans. »
+
+
+(a,b)=(ceux,ce)
+Input: ceux d’ici et ceux de là-bas.
+Correct output: ceux d’ici et ceux de là-bas.
+Unexpected output: ce d’ici et ceux de là-bas.
+
+
+(a,b)=(ceux,ce)
+Input: "les vrais responsables politiques ce sont ceux qui disent la vérité.
+Correct output: "les vrais responsables politiques ce sont ceux qui disent la vérité.
+Unexpected output: "les vrais responsables politiques se sont ceux qui disent la vérité.
+
+
+(a,b)=(ceux,ce)
+Input: ceux qu'on désire, ceux qu'on a perdus.
+Correct output: ceux qu'on désire, ceux qu'on a perdus.
+Unexpected output: ce qu'on désire, ce qu'on a perdus.
+
+
+(a,b)=(ceux,ce)
+Input: de là aussi ce déplacement des frontières chez ceux qui s'engagent.
+Correct output: de là aussi ce déplacement des frontières chez ceux qui s'engagent.
+Unexpected output: de là aussi se déplacement des frontières chez ceux qui s'engagent.
+
+
+(a,b)=(ceux,ce)
+Input: et surtout, à ceux désir d'agir qui en découle.
+Correct output: et surtout, à ce désir d'agir qui en découle.
+Unexpected output: et surtout, à se désir d'agir qui en découle.
+
+
+(a,b)=(ceux,ce)
+Input: « c’est très touchant de voir ceux film ou l’on voit des enfants malades.
+Correct output: « c’est très touchant de voir ce film ou l’on voit des enfants malades.
+Unexpected output: « c’est très touchant de voir ce film où l’on voit des enfants malades.
+
+
+(a,b)=(ce,ceux)
+Input: il incarne bien les espoirs placés en ce vent de renouveau orange.
+Correct output: il incarne bien les espoirs placés en ce vent de renouveau orange.
+Unexpected output: il incarne bien les espoirs placés en se vent de renouveau orange.
+
+
+(a,b)=(ce,ceux)
+Input: mais, à la place, tout le monde ne parle que de ce doigt d'honneur.
+Correct output: mais, à la place, tout le monde ne parle que de ce doigt d'honneur.
+Unexpected output: mais, à la place, tout le monde ne parle que de se doigt d'honneur.
+
+
+(a,b)=(ce,ceux)
+Input: le virtuel donne l'illusion de ce contrôle.
+Correct output: le virtuel donne l'illusion de ce contrôle.
+Unexpected output: le virtuel donne l'illusion de se contrôle.
+
+
+(a,b)=(ce,ceux)
+Input: avant ce détour par l'ile de beauté, son parcours a été plutôt exotique.
+Correct output: avant ce détour par l'ile de beauté, son parcours a été plutôt exotique.
+Unexpected output: avant se détour par l'ile de beauté, son parcours a été plutôt exotique.
+
+
+(a,b)=(ce,ceux)
+Input: « je n'accepte pas tout ce que les gens me ramènent. »
+Correct output: « je n'accepte pas tout ce que les gens me ramènent. »
+Unexpected output: « je n'accepte pas tous ceux que les gens me ramènent. »
+
+
+(a,b)=(ce,ceux)
+Input: il quitte ce poste pour devenir ministre de l'intérieur.
+Correct output: il quitte ce poste pour devenir ministre de l'intérieur.
+Unexpected output: il quitte se poste pour devenir ministre de l'intérieur.
+
+
+(a,b)=(ce,ceux)
+Input: a nous de relever ce défit d'avoir un autofinancement plus important ».
+Correct output: a nous de relever ce défit d'avoir un autofinancement plus important ».
+Unexpected output: a nous de relever se défit d'avoir un autofinancement plus important ».
+
+
+(a,b)=(ce,ceux)
+Input: alors ce sont des signes encourageants de le voir être en mesure de faire ça.»
+Correct output: alors ce sont des signes encourageants de le voir être en mesure de faire ça.»
+Unexpected output: alors se sont des signes encourageants de le voir être en mesure de faire ça.»
+
+
+(a,b)=(ce,ceux)
+Input: je me presente donc ici ce matin, ma camera a la main.
+Correct output: je me presente donc ici ce matin, ma camera a la main.
+Unexpected output: je me presente donc ici ce matin, ma camera à la main.
+
+
+(a,b)=(ce,ceux)
+Input: là, ses taux de popularité sont comparables à ce de george bush.
+Correct output: là, ses taux de popularité sont comparables à ceux de george bush.
+Unexpected output: là, ces taux de popularité sont comparables à ceux de george bush.
+
+
+(a,b)=(ce,ceux)
+Input: sans compter ce qu'on a déjà oubliés et ceux qu'on ne connaît pas...
+Correct output: sans compter ceux qu'on a déjà oubliés et ceux qu'on ne connaît pas...
+Unexpected output: sans compter ce qu'on a déjà oubliés et ce qu'on ne connaît pas...
+
+
+(a,b)=(ce,ceux)
+Input: ► pour ce qui veulent revenir aux sources de ce débat, lire:
+Correct output: ► pour ceux qui veulent revenir aux sources de ce débat, lire:
+Unexpected output: �leur p pour ceux qui veulent revenir aux sources de ce débat, lire:
+
+
+(a,b)=(ce,ceux)
+Input: de ce qui travaillent la bidoche, la fleur ou le cheveu et à la main siouplaît.
+Correct output: de ceux qui travaillent la bidoche, la fleur ou le cheveu et à la main siouplaît.
+Unexpected output: de ceux qui travaillent la bidoche, la fleur où le cheveu et à la main siouplaît.
+
+
+(a,b)=(ce,ceux)
+Input: parce qu""ils sont si rares ce capables de s'explorer.
+Correct output: parce qu""ils sont si rares ceux capables de s'explorer.
+Unexpected output: parce qu""ils sont si rares se capables de s'explorer.
+
+
+(a,b)=(ce,ceux)
+Input: ou bien à ce qui veulent laisser une trace à leur descendance.
+Correct output: ou bien à ceux qui veulent laisser une trace à leur descendance.
+Unexpected output: ou bien à ceux qui veulent laisser une trace à leurs descendance.
+
+
+(a,b)=(ce,ceux)
+Input: on rassemble tous ce qu'on peut le dimanche soir.
+Correct output: on rassemble tous ceux qu'on peut le dimanche soir.
+Unexpected output: on rassemble tout ce qu'on peut le dimanche soir.
+
+
+(a,b)=(ce,ceux)
+Input: ce qui me plaisent, je ne leur plais pas et ceux que je fuis me courent après.
+Correct output: ceux qui me plaisent, je ne leur plais pas et ceux que je fuis me courent après.
+Unexpected output: ce qui me plaisent, je ne leur plais pas et ce que je fuis me courent après.
+
+
+(a,b)=(ce,ceux)
+Input: il y a ce qui sont « vendeurs » … et il y a les tous autres.
+Correct output: il y a ceux qui sont « vendeurs » … et il y a les tous autres.
+Unexpected output: il y a ceux qui sont « vendeurs » … et il y a les tout autres.
+
+
+(a,b)=(ce,ceux)
+Input: et d'inviter ce qui ne le comprennent pas à pratiquer cette vertu.
+Correct output: et d'inviter ceux qui ne le comprennent pas à pratiquer cette vertu.
+Unexpected output: et d'inviter ceux qui ne le comprennent pas à pratiquer cet vertu.
+
+
+(a,b)=(ce,ceux)
+Input: question de société: ce qui sont là télé-québec, 21h
+Correct output: question de société: ceux qui sont là télé-québec, 21h
+Unexpected output: question de société: ceux qui sont la télé-québec, 21h
+
+
+(a,b)=(cette,cet)
+Input: on ne peut revenir à la politique qui nous à mis dans cette situation.
+Correct output: on ne peut revenir à la politique qui nous à mis dans cette situation.
+Unexpected output: on ne peut revenir à la politique qui nous a mis dans cette situation.
+
+
+(a,b)=(cette,cet)
+Input: la lhjmq a contribué a cette conquête.
+Correct output: la lhjmq a contribué a cette conquête.
+Unexpected output: la lhjmq a contribué à cette conquête.
+
+
+(a,b)=(cette,cet)
+Input: peloton unique et groupé pour cette première sortie de l'année.
+Correct output: peloton unique et groupé pour cette première sortie de l'année.
+Unexpected output: peloton unique est groupé pour cette première sortie de l'année.
+
+
+(a,b)=(cette,cet)
+Input: on sent une intimité entre cette frivole reine et ce romancier rouge.
+Correct output: on sent une intimité entre cette frivole reine et ce romancier rouge.
+Unexpected output: on sent une intimité entre cette frivole reine et se romancier rouge.
+
+
+(a,b)=(cette,cet)
+Input: le cce devait débuter après cette échange.
+Correct output: le cce devait débuter après cet échange.
+Unexpected output: le cse devait débuter après cet échange.
+
+
+(a,b)=(cette,cet)
+Input: merci pour pour tout cette amour."
+Correct output: merci pour pour tout cet amour."
+Unexpected output: merci pour pour tous cet amour."
+
+
+(a,b)=(cet,cette)
+Input: un de ces copalme a tout à fait sa place à cet endroit.
+Correct output: un de ces copalme a tout à fait sa place à cet endroit.
+Unexpected output: un de ses copalme a tout à fait sa place à cet endroit.
+
+
+(a,b)=(cet,cette)
+Input: mais nous avons besoin de cet fraicheur, de cette excitation qu'ils ont tous.
+Correct output: mais nous avons besoin de cette fraicheur, de cette excitation qu'ils ont tous.
+Unexpected output: mais nous avons besoin de cette fraicheur, de cet excitation qu'ils ont tous.
+
+
+(a,b)=(cet,cette)
+Input: je ne me suis jamais arrêté à savoir si j'aimais ou pas cet fonction.
+Correct output: je ne me suis jamais arrêté à savoir si j'aimais ou pas cette fonction.
+Unexpected output: je ne me suis jamais arrêté à savoir si j'aimais où pas cette fonction.
+
+
