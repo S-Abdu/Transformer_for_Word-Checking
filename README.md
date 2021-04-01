@@ -10,4 +10,7 @@ You can eihter download and use the pretrained model or follow the steps to trai
 
 Moreover, you can find here a report summarizing human performance. It was sent to all respondents that have provided an email address when they have completed the following form:
 https://forms.gle/zY2wgV51tR5YKEcn7 (this report and the form are in French). <br><br>
-Finally, once finished, you can also find here the Final Report of this project. In the meantime, you have access to the yet incomplete final report.
+
+(Finally, once finished, you can also find here the Final Report of this project. In the meantime, you have access to the yet incomplete final report.)
+
+<h3>UPDATE: The Final Report in English is now available :) </h3>
